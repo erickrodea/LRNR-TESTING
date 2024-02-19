@@ -1,3 +1,10 @@
+#npm start 
+in order to run the cypress tests you must CD into SRC and do npx cypress open
+
+#npm test to run jest, make sure backend is up and running
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
